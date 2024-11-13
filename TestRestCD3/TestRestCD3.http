@@ -1,0 +1,6 @@
+@TestRestCD3_HostAddress = http://localhost:5114
+
+GET {{TestRestCD3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
